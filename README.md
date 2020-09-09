@@ -2,7 +2,7 @@
 
 In this project we use the Python library Matplotlib to create static visualizations for the 2019 Austrian legislative election. The visualizations created are a grouped bar chart and parallel coordinates.
 
-### To run the Jupyter Notebook:
+### To run the Jupyter Notebook
 
 * pipenv install
 * pipenv run jupyter notebook
