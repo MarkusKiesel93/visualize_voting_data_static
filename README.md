@@ -1,2 +1,6 @@
-# visualize_voting_data_static
-Static visaulization of Austrian voting data in Python
+# Exercise 1 Information Visualization
+
+**To run Jupyter Notebook:**
+
+* pipenv install
+* pipenv run jupyter notebook
